@@ -1,0 +1,26 @@
+/* Class = "UILabel"; text = "Title"; ObjectID = "3Ni-zg-ZA6"; */
+"3Ni-zg-ZA6.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "5Hs-y4-g3j"; */
+"5Hs-y4-g3j.title" = "Save";
+
+/* Class = "UIBarButtonItem"; title = "Go back"; ObjectID = "EKu-4o-D77"; */
+"EKu-4o-D77.title" = "Go back";
+
+/* Class = "UITextField"; placeholder = "Type the age..."; ObjectID = "Jo6-UP-UHz"; */
+"Jo6-UP-UHz.placeholder" = "Type the age...";
+
+/* Class = "UITextField"; placeholder = "Type the first name..."; ObjectID = "h7C-14-Lro"; */
+"h7C-14-Lro.placeholder" = "Type the first name...";
+
+/* Class = "UINavigationItem"; title = "SQLite"; ObjectID = "lxD-9p-sjs"; */
+"lxD-9p-sjs.title" = "SQLite";
+
+/* Class = "UITextField"; placeholder = "Type the last name..."; ObjectID = "pAc-tF-weh"; */
+"pAc-tF-weh.placeholder" = "Type the last name...";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "xly-YQ-5Ok"; */
+"xly-YQ-5Ok.text" = "Subtitle";
+
+/* Class = "UINavigationItem"; title = "Person"; ObjectID = "zcc-xK-Idl"; */
+"zcc-xK-Idl.title" = "Person";
